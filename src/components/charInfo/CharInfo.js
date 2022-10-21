@@ -13,7 +13,7 @@ class CharInfo extends Component{
 		loading: false,
 		error: false,
 	};
-console.log('sss')
+
 	marvelService = new MarvelService();
 
 	componentDidMount() {
